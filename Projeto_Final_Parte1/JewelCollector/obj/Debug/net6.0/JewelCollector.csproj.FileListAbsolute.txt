@@ -1,0 +1,15 @@
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\bin\Debug\net6.0\JewelCollector.exe
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\bin\Debug\net6.0\JewelCollector.deps.json
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\bin\Debug\net6.0\JewelCollector.runtimeconfig.json
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\bin\Debug\net6.0\JewelCollector.dll
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\bin\Debug\net6.0\JewelCollector.pdb
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\obj\Debug\net6.0\JewelCollector.csproj.AssemblyReference.cache
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\obj\Debug\net6.0\JewelCollector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\obj\Debug\net6.0\JewelCollector.AssemblyInfoInputs.cache
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\obj\Debug\net6.0\JewelCollector.AssemblyInfo.cs
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\obj\Debug\net6.0\JewelCollector.csproj.CoreCompileInputs.cache
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\obj\Debug\net6.0\JewelCollector.dll
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\obj\Debug\net6.0\refint\JewelCollector.dll
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\obj\Debug\net6.0\JewelCollector.pdb
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\obj\Debug\net6.0\JewelCollector.genruntimeconfig.cache
+C:\Users\silva\Documents\Curso Extensão C#\Tecnologias Microsoft\Programação em C#\Projeto_Final_Parte1\JewelCollector\obj\Debug\net6.0\ref\JewelCollector.dll
